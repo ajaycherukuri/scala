@@ -1,4 +1,6 @@
 
+package forLoop
+
 object yieldForloop {
    def main(args: Array[String]) {
       var a = 0;
